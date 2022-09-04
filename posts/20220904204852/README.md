@@ -1,6 +1,6 @@
 # Vagrant init
 
-![It works on my machine ](Images/say_it.jpeg)
+![It works on my machine ](images/say_it.jpeg)
 
 Minimal steps to get vagrant box setup and ready:
 
