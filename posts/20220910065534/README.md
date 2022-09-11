@@ -16,6 +16,8 @@
 
 #### TL;DR
 > vim test.txt > press i > write > press ESC > enter :w > enter :q
+
 or to abandon changes
-> vim test.txt > press i > write > press ESC > enter :q!
+
+> vim test.txt > press i > write > press ESC > enter :qi!
 
