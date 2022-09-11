@@ -19,5 +19,5 @@
 
 or to abandon changes
 
-> vim test.txt > press i > write > press ESC > enter :qi!
+> vim test.txt > press i > write > press ESC > enter :qa!
 
