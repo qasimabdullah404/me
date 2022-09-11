@@ -10,5 +10,9 @@
 * Enter `:w` to save the file
 * Enter `:q` to quit VIM
 
+#### Abandon all changes
+* Enter `:q!`(current buffer) or `qa!`(All buffers)
+> Buffer is the ***opened file***.
+
 #### TL;DR
 > vim test.txt > press i > write > press ESC > enter :w > enter :q
